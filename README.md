@@ -22,7 +22,7 @@ Here's a list of the notebooks available in this repository:
 - [Implementing Naive Bayes](implementing-naive-bayes.ipynb): This notebook walks through the implementation of the Naive Bayes algorithm, a popular probabilistic classification algorithm.
 - [Time Series Analysis Practice](time-series-practicing.ipynb): This notebook focuses on time series analysis techniques, covering trend analysis, seasonality, autocorrelation, and forecasting methods.
 - [Deep Learning Basics from Scratch](deep-learning-basics.ipynb): This notebook provides an introduction to deep learning from scratch, covering neural networks, activation functions, backpropagation, and gradient descent.
-- [Customer Segmentation Using K-Means](customer_segmentation_using_kmeans.ipynb): This notebook demonstrates the application of the K-Means clustering algorithm for customer segmentation.
+- [Customer Segmentation Using K-Means](customer-segmentation-using-k-means.ipynb): This notebook demonstrates the application of the K-Means clustering algorithm for customer segmentation.
 - [Airbnb Analysis and Data Validation](airbnb-analysis.ipynb): This notebook focuses on analyzing Airbnb data and performing data validation tasks.
 
 Feel free to explore the notebooks and adapt them to your own projects!
