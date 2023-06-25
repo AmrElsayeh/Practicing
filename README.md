@@ -17,13 +17,13 @@ Feel free to explore the notebooks, experiment with the code, and adapt them to 
 
 Here's a list of the notebooks available in this repository:
 
-- [Working With Outliers](Practicing/working-with-outliers.ipynb): This notebook focuses on techniques and methods for identifying and handling outliers in data.
-- [PCA Practicing](notebooks/pca_practicing.ipynb): This notebook explores Principal Component Analysis (PCA), a dimensionality reduction technique widely used in data analysis and machine learning.
-- [Implementing Naive Bayes](notebooks/implementing_naive_bayes.ipynb): This notebook walks through the implementation of the Naive Bayes algorithm, a popular probabilistic classification algorithm.
-- [Time Series Analysis Practice](notebooks/time_series_analysis_practice.ipynb): This notebook focuses on time series analysis techniques, covering trend analysis, seasonality, autocorrelation, and forecasting methods.
-- [Deep Learning Basics from Scratch](notebooks/deep_learning_basics_from_scratch.ipynb): This notebook provides an introduction to deep learning from scratch, covering neural networks, activation functions, backpropagation, and gradient descent.
-- [Customer Segmentation Using K-Means](notebooks/customer_segmentation_using_kmeans.ipynb): This notebook demonstrates the application of the K-Means clustering algorithm for customer segmentation.
-- [Airbnb Analysis and Data Validation](notebooks/airbnb_analysis_and_data_validation.ipynb): This notebook focuses on analyzing Airbnb data and performing data validation tasks.
+- [Working With Outliers](working-with-outliers.ipynb): This notebook focuses on techniques and methods for identifying and handling outliers in data.
+- [PCA Practicing](pca-practice.ipynb): This notebook explores Principal Component Analysis (PCA), a dimensionality reduction technique widely used in data analysis and machine learning.
+- [Implementing Naive Bayes](implementing-naive-bayes.ipynb): This notebook walks through the implementation of the Naive Bayes algorithm, a popular probabilistic classification algorithm.
+- [Time Series Analysis Practice](time-series-practicing.ipynb): This notebook focuses on time series analysis techniques, covering trend analysis, seasonality, autocorrelation, and forecasting methods.
+- [Deep Learning Basics from Scratch](deep-learning-basics.ipynb): This notebook provides an introduction to deep learning from scratch, covering neural networks, activation functions, backpropagation, and gradient descent.
+- [Customer Segmentation Using K-Means](customer_segmentation_using_kmeans.ipynb): This notebook demonstrates the application of the K-Means clustering algorithm for customer segmentation.
+- [Airbnb Analysis and Data Validation](airbnb-analysis.ipynb): This notebook focuses on analyzing Airbnb data and performing data validation tasks.
 
 Feel free to explore the notebooks and adapt them to your own projects!
 
