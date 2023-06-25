@@ -17,7 +17,7 @@ Feel free to explore the notebooks, experiment with the code, and adapt them to 
 
 Here's a list of the notebooks available in this repository:
 
-- [Working With Outliers](notebooks/working_with_outliers.ipynb): This notebook focuses on techniques and methods for identifying and handling outliers in data.
+- [Working With Outliers](Practicing/working_with_outliers.ipynb): This notebook focuses on techniques and methods for identifying and handling outliers in data.
 - [PCA Practicing](notebooks/pca_practicing.ipynb): This notebook explores Principal Component Analysis (PCA), a dimensionality reduction technique widely used in data analysis and machine learning.
 - [Implementing Naive Bayes](notebooks/implementing_naive_bayes.ipynb): This notebook walks through the implementation of the Naive Bayes algorithm, a popular probabilistic classification algorithm.
 - [Time Series Analysis Practice](notebooks/time_series_analysis_practice.ipynb): This notebook focuses on time series analysis techniques, covering trend analysis, seasonality, autocorrelation, and forecasting methods.
